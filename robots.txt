@@ -1,0 +1,3 @@
+user-agent:*
+allow:/
+sitemap:https://practice-website-beta.vercel.app/sitemap.xml 
